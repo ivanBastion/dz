@@ -5,7 +5,7 @@ a[href="https://validator.w3.org/"]{
     
     color:red;
 }
-p {
+ul+p {
     color: aqua;
     font-size: 24px;
 }
